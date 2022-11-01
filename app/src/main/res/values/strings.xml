@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Todo Béisbol</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="header_tittle">Todo Béisbol</string>
+    <string name="header_subtittle">Todo lo que necesitas conocer sobre este maravilloso deporte</string>
+    <string name="action_settings">Acerca de</string>
+    <string name="action_settings2">Fuentes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

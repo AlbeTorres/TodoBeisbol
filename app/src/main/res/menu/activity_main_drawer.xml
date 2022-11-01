@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/historia"
+        android:icon="@drawable/ic_menu_history"
+        android:title="Historia del béisbol" />
+    <item
+        android:id="@+id/definición"
+        android:icon="@drawable/ic_menu_structure"
+        android:title="Definición de términos" />
+    <item
+        android:id="@+id/director"
+        android:icon="@drawable/ic_menu_people"
+        android:title="Director de equipo" />
+    <item
+        android:id="@+id/bateador"
+        android:icon="@drawable/bat2"
+        android:title="El bateador " />
+    <item
+        android:id="@+id/lanzador"
+        android:icon="@drawable/lanz2"
+        android:title="Lanzador" />
+    <item
+        android:id="@+id/receptor"
+        android:icon="@drawable/tac"
+        android:title="Receptor" />
+    <item
+        android:id="@+id/cuadro"
+        android:icon="@drawable/cuadro"
+        android:title="Jugadores de cuadro" />
+    <item
+        android:id="@+id/jardineros"
+        android:icon="@drawable/jar1"
+        android:title="Jardineros" />
+    <item
+        android:id="@+id/táctica"
+        android:icon="@drawable/tac1"
+        android:title="Táctica defensiva" />
+    <item
+        android:id="@+id/categorías"
+        android:icon="@drawable/def"
+        android:title="Categorías inferiores" />
+    <item
+        android:id="@+id/logros"
+        android:icon="@drawable/ic_menu_rector_awards"
+        android:title="Logros internacionales" />
+
+</menu>
